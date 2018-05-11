@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportFinancialsExecutable", "ConsoleApp1\ImportFinancialsExecutable.csproj", "{BBC0380E-DC6F-469B-B83D-B920DF5A5F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JabilTM1RestAPI", "..\..\PullDataFromTM1\TM1RestApi\JabilTM1RestAPI\JabilTM1RestAPI.csproj", "{E89D387C-0F07-44D4-B32E-FA0B9BA5441B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TM1Interfaces", "..\..\PullDataFromTM1\TM1Interfaces\TM1Interfaces\TM1Interfaces.csproj", "{F8B9A119-1223-4DE5-9F89-EAE74A4C8265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC0380E-DC6F-469B-B83D-B920DF5A5F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC0380E-DC6F-469B-B83D-B920DF5A5F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC0380E-DC6F-469B-B83D-B920DF5A5F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC0380E-DC6F-469B-B83D-B920DF5A5F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89D387C-0F07-44D4-B32E-FA0B9BA5441B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89D387C-0F07-44D4-B32E-FA0B9BA5441B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89D387C-0F07-44D4-B32E-FA0B9BA5441B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89D387C-0F07-44D4-B32E-FA0B9BA5441B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B9A119-1223-4DE5-9F89-EAE74A4C8265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B9A119-1223-4DE5-9F89-EAE74A4C8265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B9A119-1223-4DE5-9F89-EAE74A4C8265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B9A119-1223-4DE5-9F89-EAE74A4C8265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B504DEA-3E9D-4E3F-A8D4-50C117CE01A2}
+	EndGlobalSection
+EndGlobal

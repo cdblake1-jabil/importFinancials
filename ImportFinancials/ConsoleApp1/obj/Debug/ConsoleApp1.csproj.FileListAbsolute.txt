@@ -1,0 +1,6 @@
+C:\workspace\import-financials\ImportFinancials\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\workspace\import-financials\ImportFinancials\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\workspace\import-financials\ImportFinancials\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\workspace\import-financials\ImportFinancials\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\workspace\import-financials\ImportFinancials\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\workspace\import-financials\ImportFinancials\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
